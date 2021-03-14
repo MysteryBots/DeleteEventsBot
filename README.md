@@ -102,7 +102,6 @@ Note : Fill both or leave both unless bot won't work.
 
 ## Credits
 - [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
-- [@The_Firefrost](https://t.me/The_firefrost) for the idea.
 
 ## Support
 Channel :- [@MysteryBots](https://t.me/MysteryBots)
